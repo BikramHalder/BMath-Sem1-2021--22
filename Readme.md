@@ -1,6 +1,6 @@
 # BMath-Sem1-2021-'22
 
-Repository of resources for Semester 1 of B. Math 1st Year students (2021-'22) at Indian Statistical Institute, Bangalore.
+Repository of resources for Semester 1 of B. Math 1st Year students (2021-'22) at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in).
 
 ## Courses Available
 
