@@ -13,7 +13,7 @@ Repository of resources for Semester 1 of B. Math 1st Year students (2021-'22) a
 ## How to Use?
 
 1. Install git
-  - Windows: https://git-scm.com/download/win
+  - Windows: https://git-scm.com/download/win or `winget install git.git`
   - MacOS (comes pre-installed): `brew install git`
   - Linux (comes pre-installed): If you don't know how to, FUCK OFF
 2. Clone the repo
